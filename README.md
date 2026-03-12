@@ -4,10 +4,10 @@ LangChain-based agents, chains, and RAG pipelines for automating tasks that need
 
 ## What this covers
 
-- **Agents** — LangChain agents with custom tools for web research, data analysis, and code execution
-- **Chains** — LCEL-based chains for multi-step workflows (summarization, extraction, classification)
-- **RAG pipelines** — Document ingestion, chunking, vector storage, and retrieval with FAISS/Pinecone
-- **Prompt management** — Reusable prompt templates with few-shot examples and output parsers
+- **Agents** - LangChain agents with custom tools for web research, data analysis, and code execution
+- **Chains** - LCEL-based chains for multi-step workflows (summarization, extraction, classification)
+- **RAG pipelines** - Document ingestion, chunking, vector storage, and retrieval with FAISS/Pinecone
+- **Prompt management** - Reusable prompt templates with few-shot examples and output parsers
 
 ## Stack
 
